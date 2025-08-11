@@ -4,7 +4,6 @@ Trường Lê Hồng Phong, TP.HCM, Việt Nam
 [2025-11] AI CLASS  
 Giảng viên: Đỗ Như Tài  
 Học sinh: Nguyễn Ngọc Bảo Trâm 
-
 Nội dung: Làm quen với AI
 
 ## App-Inventor
